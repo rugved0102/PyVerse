@@ -14,8 +14,8 @@
 - **Average-case**: O(n log n)
 - **Worst-case**: O(n log n)
 
- ## Space Complexity
- O(n) (requires additional space for the temporary arrays)
+### Space Complexity
+O(n) (requires additional space for the temporary arrays)
 
 ### Example
 
