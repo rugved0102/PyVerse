@@ -14,6 +14,9 @@
 - **Average-case**: O(n log n)
 - **Worst-case**: O(n²)
 
+### Space Complexity
+O(log n) (due to recursive stack space)
+
 ### Example
 
 Given the sequence: **7, 2, 1, 6**.
