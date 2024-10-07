@@ -16,6 +16,9 @@
 - **Average-case**: O(n²)
 - **Worst-case**: O(n²)
 
+### Space Complexity
+O(1) (in-place sorting)
+
 ### Example
 
 Given the sequence: **[5, 1, 4, 2, 8]**.
