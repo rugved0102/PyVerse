@@ -15,6 +15,9 @@
 
 Here, **n** is the number of elements and **k** is the number of digits in the maximum number.
 
+### Space Complexity
+O(n + k) (where n is the number of elements and k is the range of the digits)
+
 ### Example
 
 Given the sequence: **170, 45, 75, 90, 802, 24, 2, 66**.
