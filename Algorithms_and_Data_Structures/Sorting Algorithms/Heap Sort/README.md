@@ -15,6 +15,9 @@
 - **Average-case**: O(n log n)
 - **Worst-case**: O(n log n)
 
+### Space Complexity
+O(1) (in-place sorting)
+
 ### Example
 
 Given the sequence: **7, 2, 1, 6**.
